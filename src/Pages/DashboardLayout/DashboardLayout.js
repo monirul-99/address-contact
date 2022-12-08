@@ -11,7 +11,7 @@ const DashboardLayout = () => {
   return (
     <section>
       <div className="w-full h-screen flex justify-center items-center bg-[#50565B]">
-        <div className="drawer drawer-mobile bg-white container h-[700px] rounded-md mx-auto">
+        <div className="drawer drawer-mobile bg-black container h-[700px] rounded-md mx-auto">
           <input id="my-drawer-2" type="checkbox" className="drawer-toggle" />
           <div className="drawer-content">
             <label htmlFor="my-drawer-2" className="drawer-button lg:hidden">
